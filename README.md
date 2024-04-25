@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm **Ruhaan**
+2 # Hi there! 👋 I'm **Ruhaan**
 
 ## About Me
 I'm passionate about AI development and have a strong focus on leveraging machine learning technologies to solve real-world problems.
@@ -31,5 +31,6 @@ I'm passionate about AI development and have a strong focus on leveraging machin
 [![trophy](https://github-profile-trophy.vercel.app/?username=Ruhaan838&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Contact Me
-Feel free to reach out to me via email at [LinkedIn](https://www.linkedin.com/in/mo-ruhaan-dalal-a93a20292/).
+Feel free to reach out to me via [email](raiyandalal8@gmail.com) at
+ [LinkedIn](https://www.linkedin.com/in/mo-ruhaan-dalal-a93a20292/).
 ![GitHub Followers](https://img.shields.io/github/followers/Ruhaan838?style=social)
