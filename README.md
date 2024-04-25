@@ -1,4 +1,4 @@
-2 # Hi there! 👋 I'm **Ruhaan**
+# Hi there! 👋 I'm **Ruhaan**
 
 ## About Me
 I'm passionate about AI development and have a strong focus on leveraging machine learning technologies to solve real-world problems.
