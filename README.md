@@ -16,8 +16,7 @@ I'm passionate about AI development and have a strong focus on leveraging machin
 - I have extensive experience with Python.
 
 ## GitHub Stats
-![My GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Ruhaan838&layout=compact) 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ruhaan838&theme=radical)](https://git.io/streak-stats)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Ruhaan838&layout=compact)
 
 ## GitHub Profile Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=Ruhaan838&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
