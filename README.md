@@ -6,22 +6,14 @@ I'm passionate about AI development and have a strong focus on leveraging machin
 ## Experience
 
 ### AI Development
-[![AI Development](https://img.shields.io/badge/AI_Development-TensorFlow_&_Keras-blueviolet?style=for-the-badge&logo=tensorflow)](https://www.tensorflow.org/)
-- Developed a ML/DL Model using TensorFlow and Keras for Image processing.
+[![tf](https://img.shields.io/badge/AI_Development-TensorFlow_&_Keras-blueviolet?style=for-the-badge&logo=tensorflow)](https://www.tensorflow.org/)
+[![torch](https://img.shields.io/badge/AI_Development-PyTorch-blueviolet?style=for-the-badge&logo=pytorch)](https://pytorch.org/)
+
+- Developed a ML/DL Model using TensorFlow and Keras || Pytorch for Image processing.
 
 ### Python
 [![Python](https://img.shields.io/badge/Python-Programming-yellow?style=for-the-badge&logo=python)](https://www.python.org/)
 - I have extensive experience with Python.
-
-## Skills
-
-### Python
-[![Python](https://img.shields.io/badge/Python-Programming-yellow?style=for-the-badge&logo=python)](https://www.python.org/)
-- I am well-versed in Python's data structures.
-
-### Machine Learning
-[![Machine Learning](https://img.shields.io/badge/Machine_Learning-Supervised_%26_Unsupervised-green?style=for-the-badge&logo=machine-learning)](https://en.wikipedia.org/wiki/Machine_learning)
-- Implemented various supervised and unsupervised learning algorithms for predictive modeling.
 
 ## GitHub Stats
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Ruhaan838&layout=compact) 
