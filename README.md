@@ -6,10 +6,9 @@ I'm passionate about AI development and have a strong focus on leveraging machin
 ## Experience
 
 ### AI Development
-[![tf](https://img.shields.io/badge/AI_Development-TensorFlow_&_Keras-blueviolet?style=for-the-badge&logo=tensorflow)](https://www.tensorflow.org/)
 [![torch](https://img.shields.io/badge/AI_Development-PyTorch-blueviolet?style=for-the-badge&logo=pytorch)](https://pytorch.org/)
 
-- Developed a ML/DL Model using TensorFlow and Keras || Pytorch for Image processing.
+- Developed a ML/DL Model using Pytorch.
 
 ### Python
 [![Python](https://img.shields.io/badge/Python-Programming-yellow?style=for-the-badge&logo=python)](https://www.python.org/)
@@ -17,9 +16,6 @@ I'm passionate about AI development and have a strong focus on leveraging machin
 
 ## GitHub Stats
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Ruhaan838&layout=compact)
-
-## GitHub Profile Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=Ruhaan838&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Contact Me
 Feel free to reach out to me via [email](raiyandalal8@gmail.com) at
