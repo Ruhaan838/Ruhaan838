@@ -1,7 +1,9 @@
 # Hi there! 👋 I'm **Ruhaan**
 
 ## About Me
-I'm passionate about AI development and have a strong focus on leveraging machine learning technologies to solve real-world problems.
+I'm passionate about AI development and have a strong focus on leveraging Deep learning technologies to solve real-world problems.
+- Image classification, Segmentation, Generation
+- Text Translation, Generation
 
 ## Experience
 
