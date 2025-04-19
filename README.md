@@ -5,17 +5,6 @@ I'm passionate about AI development and have a strong focus on leveraging Deep l
 - Image classification, Segmentation, Generation
 - Text Translation, Generation
 
-## Experience
-
-### AI Development
-[![torch](https://img.shields.io/badge/AI_Development-PyTorch-blueviolet?style=for-the-badge&logo=pytorch)](https://pytorch.org/)
-
-- Developed a ML/DL Model using Pytorch.
-
-### Python
-[![Python](https://img.shields.io/badge/Python-Programming-yellow?style=for-the-badge&logo=python)](https://www.python.org/)
-- I have extensive experience with Python.
-
 ## GitHub Stats
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Ruhaan838&layout=compact)
 
