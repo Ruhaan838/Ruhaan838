@@ -104,8 +104,16 @@ A passionate **student** exploring the world of **AI, ML, DL**, and **GPU progra
 
 ## GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ruhaan838&layout=compact&theme=radical)
-
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruhaan838&layout=compact&theme=radical" alt="Top Langs">
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ruhaan838&theme=radical" alt="GitHub Streak">
+    </td>
+  </tr>
+</table>
 ---
 
 ## Visitor Count
