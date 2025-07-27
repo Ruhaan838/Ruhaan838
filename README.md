@@ -114,11 +114,6 @@ A passionate **student** exploring the world of **AI, ML, DL**, and **GPU progra
     </td>
   </tr>
 </table>
----
-
-## Visitor Count
-
-![Visitor Badge](https://komarev.com/ghpvc/?username=Ruhaan838&style=flat-square&color=blue)
 
 ---
 
