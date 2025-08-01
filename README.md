@@ -112,6 +112,9 @@ A passionate **student** exploring the world of **AI, ML, DL**, and **GPU progra
     <td>
       <img src="https://streak-stats.demolab.com/?user=Ruhaan838&theme=radical" alt="GitHub Streak">
     </td>
+    <td>
+      ![Contribution Snake](https://raw.githubusercontent.com/Ruhaan838/Ruhaan838/output/github-contribution-grid-snake.svg)
+    </td>
   </tr>
 </table>
 
